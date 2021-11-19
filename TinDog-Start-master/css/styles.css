@@ -1,0 +1,171 @@
+body {
+    font-family: 'Montserrat-normal';
+}
+
+@media (max-width: 1030px){
+    #title{
+        text-align: center;
+    }
+
+    .title-image{
+        position: static;
+        transform: rotate(0);
+    }
+}
+
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+h2 {
+    color: black;
+    font-weight: 1000;
+    font-family: sans-serif;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+em {
+    padding-left: 15px;
+}
+
+p{
+    color: #8f8f8f;
+}
+
+
+
+
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color: white;
+}
+
+
+#features {
+    padding: 7% 15%;
+    background-color: white;
+    position: relative;
+    z-index: 1;
+}
+
+#title {
+    background-color: #ff4c68;
+    color: white;
+}
+
+
+
+
+
+
+.feature-icon {
+    color: #ef8172;
+    padding-bottom: 1rem;
+}
+.feature-icon:hover {
+    color: #ff4c68;
+}
+
+.container-fluid {
+    padding: 3% 15% 7%;
+    
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+}
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+.title-image {
+    width: 60%;
+    transform: rotate(25deg);
+    position: absolute;
+    right: 30%;
+}
+
+
+.feature-box {
+    text-align: center;
+    padding: 5%;
+}
+
+
+
+
+.dog-icon {
+    border-radius: 50%;
+    width: 110px;
+    padding: 5% 0;
+
+}
+#press {
+    background-color: #ef8172;
+    padding-bottom: 3%;
+    text-align: center;
+}
+
+
+.press-logo {
+    width: 15%;
+    margin: 20px 20px 50px ;
+}
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+.price-row {
+    padding: 3% 2%;
+}
+p {
+    color: black;
+    font-family: monospace;
+}
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+}
+
+.down {
+    font-size: 3.5rem;
+    font-family: sans-serif;
+    font-weight: 1000;
+    color: white;
+    padding: 5% 17% 3% 17%;
+}
+
+#footer {
+    text-align: center;
+    padding: 8% 10% 20% 10%;
+}
+
+.foot-icon {
+    margin: 2% 2% 5% 2%;
+}
+
